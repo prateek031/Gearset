@@ -194,7 +194,7 @@
             <useReportChart>false</useReportChart>
         </components>
     </middleSection>
-    <owner>prateekchourasiya35@gmail.com.applesoft.copado.production-sfp</owner>
+    <owner>prateekchourasiya35@gmail.com.applesoft.copado.int-sfp</owner>
     <rightSection>
         <columnSize>Medium</columnSize>
         <components>
@@ -259,7 +259,7 @@
             <useReportChart>false</useReportChart>
         </components>
     </rightSection>
-    <runningUser>prateekchourasiya35@gmail.com.applesoft.copado.production-sfp</runningUser>
+    <runningUser>prateekchourasiya35@gmail.com.applesoft.copado.int-sfp</runningUser>
     <textColor>#000000</textColor>
     <title>Company Performance Dashboard</title>
     <titleColor>#000099</titleColor>
