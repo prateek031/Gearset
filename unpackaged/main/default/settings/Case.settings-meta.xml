@@ -10,9 +10,9 @@
     <caseMergeInLightning>false</caseMergeInLightning>
     <closeCaseThroughStatusChange>false</closeCaseThroughStatusChange>
     <defaultCaseFeedLayoutOn>false</defaultCaseFeedLayoutOn>
-    <defaultCaseOwner>prateekchourasiya35@gmail.com.applesoft.copado.production-sfp</defaultCaseOwner>
+    <defaultCaseOwner>prateekchourasiya35@gmail.com.applesoft.copado.uat-sfp</defaultCaseOwner>
     <defaultCaseOwnerType>User</defaultCaseOwnerType>
-    <defaultCaseUser>prateekchourasiya35@gmail.com.applesoft.copado.production-sfp</defaultCaseUser>
+    <defaultCaseUser>prateekchourasiya35@gmail.com.applesoft.copado.uat-sfp</defaultCaseUser>
     <emailToCase>
         <enableE2CAttachmentAsFile>false</enableE2CAttachmentAsFile>
         <enableE2CDeduplicateAttachments>false</enableE2CDeduplicateAttachments>
