@@ -34,31 +34,6 @@
                 <default>false</default>
                 <label>Customer Satisfaction Score(5)</label>
             </value>
-            <value>
-                <fullName>Net Promoter Score(6)</fullName>
-                <default>false</default>
-                <label>Net Promoter Score(6)</label>
-            </value>
-            <value>
-                <fullName>Time Between Purchases(7)</fullName>
-                <default>false</default>
-                <label>Time Between Purchases(7)</label>
-            </value>
-            <value>
-                <fullName>Average Order Value(8)</fullName>
-                <default>false</default>
-                <label>Average Order Value(8)</label>
-            </value>
-            <value>
-                <fullName>Customer Engagement Score(9)</fullName>
-                <default>false</default>
-                <label>Customer Engagement Score(9)</label>
-            </value>
-            <value>
-                <fullName>Revenue Churn Rate(10)</fullName>
-                <default>false</default>
-                <label>Revenue Churn Rate(10)</label>
-            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
