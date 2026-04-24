@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>customer_retention_metrics__c</fullName>
+    <label>customer retention metrics</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Customer Retention Rate(1)</fullName>
+                <default>false</default>
+                <label>Customer Retention Rate(1)</label>
+            </value>
+            <value>
+                <fullName>Customer Churn Rate(2)</fullName>
+                <default>false</default>
+                <label>Customer Churn Rate(2)</label>
+            </value>
+            <value>
+                <fullName>Customer Lifetime Value(3)</fullName>
+                <default>false</default>
+                <label>Customer Lifetime Value(3)</label>
+            </value>
+            <value>
+                <fullName>Repeat Purchase Rate(4)</fullName>
+                <default>false</default>
+                <label>Repeat Purchase Rate(4)</label>
+            </value>
+            <value>
+                <fullName>Customer Satisfaction Score(5)</fullName>
+                <default>false</default>
+                <label>Customer Satisfaction Score(5)</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
